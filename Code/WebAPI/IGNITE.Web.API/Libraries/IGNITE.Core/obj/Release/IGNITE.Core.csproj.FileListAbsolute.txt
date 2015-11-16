@@ -1,0 +1,5 @@
+D:\Projects\igniteHybrid\igniteWebAPI\IGNITE.Web.API\Libraries\IGNITE.Core\bin\Release\IGNITE.Core.dll
+D:\Projects\igniteHybrid\igniteWebAPI\IGNITE.Web.API\Libraries\IGNITE.Core\bin\Release\IGNITE.Core.pdb
+D:\Projects\igniteHybrid\igniteWebAPI\IGNITE.Web.API\Libraries\IGNITE.Core\obj\Release\IGNITE.Core.csprojResolveAssemblyReference.cache
+D:\Projects\igniteHybrid\igniteWebAPI\IGNITE.Web.API\Libraries\IGNITE.Core\obj\Release\IGNITE.Core.dll
+D:\Projects\igniteHybrid\igniteWebAPI\IGNITE.Web.API\Libraries\IGNITE.Core\obj\Release\IGNITE.Core.pdb

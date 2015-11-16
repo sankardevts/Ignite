@@ -1,0 +1,7 @@
+D:\Projects\igniteHybrid\igniteWebAPI\IGNITE.Web.API\Libraries\IGNITE.Core\bin\Debug\IGNITE.Core.dll
+D:\Projects\igniteHybrid\igniteWebAPI\IGNITE.Web.API\Libraries\IGNITE.Core\bin\Debug\IGNITE.Core.pdb
+D:\Projects\igniteHybrid\igniteWebAPI\IGNITE.Web.API\Libraries\IGNITE.Core\bin\Debug\EntityFramework.dll
+D:\Projects\igniteHybrid\igniteWebAPI\IGNITE.Web.API\Libraries\IGNITE.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\igniteHybrid\igniteWebAPI\IGNITE.Web.API\Libraries\IGNITE.Core\obj\Debug\IGNITE.Core.dll
+D:\Projects\igniteHybrid\igniteWebAPI\IGNITE.Web.API\Libraries\IGNITE.Core\obj\Debug\IGNITE.Core.pdb
+D:\Projects\igniteHybrid\igniteWebAPI\IGNITE.Web.API\Libraries\IGNITE.Core\obj\Debug\IGNITE.Core.csprojResolveAssemblyReference.cache

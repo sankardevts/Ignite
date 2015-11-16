@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{35E91805-A1EE-4098-A0DC-B3BEDCDCCB5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGNITE.Web.API", "Presentation\IGNITE.Web.API.csproj", "{9A26F64B-F1CB-47D4-B2A7-EB0CA89C8F80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{8C40DC50-B441-45DD-BF2B-F4D962EF3114}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IGNITE.Core", "IGNITE.Core", "{DA06D607-029A-464B-A580-13E5E0342579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGNITE.Core", "Libraries\IGNITE.Core\IGNITE.Core.csproj", "{72D9A717-39F5-4530-9F79-8C81F61A4381}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IGNITE.Services", "IGNITE.Services", "{F3BC68E6-9C31-47CA-8731-BB4190FA264A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGNITE.Services", "Libraries\IGNITE.Services\IGNITE.Services.csproj", "{030CC499-23CA-444F-BE15-49C71051061F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A26F64B-F1CB-47D4-B2A7-EB0CA89C8F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A26F64B-F1CB-47D4-B2A7-EB0CA89C8F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A26F64B-F1CB-47D4-B2A7-EB0CA89C8F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A26F64B-F1CB-47D4-B2A7-EB0CA89C8F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D9A717-39F5-4530-9F79-8C81F61A4381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D9A717-39F5-4530-9F79-8C81F61A4381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D9A717-39F5-4530-9F79-8C81F61A4381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D9A717-39F5-4530-9F79-8C81F61A4381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{030CC499-23CA-444F-BE15-49C71051061F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030CC499-23CA-444F-BE15-49C71051061F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030CC499-23CA-444F-BE15-49C71051061F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030CC499-23CA-444F-BE15-49C71051061F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9A26F64B-F1CB-47D4-B2A7-EB0CA89C8F80} = {35E91805-A1EE-4098-A0DC-B3BEDCDCCB5A}
+		{DA06D607-029A-464B-A580-13E5E0342579} = {8C40DC50-B441-45DD-BF2B-F4D962EF3114}
+		{72D9A717-39F5-4530-9F79-8C81F61A4381} = {DA06D607-029A-464B-A580-13E5E0342579}
+		{F3BC68E6-9C31-47CA-8731-BB4190FA264A} = {8C40DC50-B441-45DD-BF2B-F4D962EF3114}
+		{030CC499-23CA-444F-BE15-49C71051061F} = {F3BC68E6-9C31-47CA-8731-BB4190FA264A}
+	EndGlobalSection
+EndGlobal
